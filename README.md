@@ -1,32 +1,48 @@
 # react-express-boilerplate
 An express and react boilerplate for beginners.
 
-*First clone the repository, Open terminal:
-```git clone git@github.com:devlargs/react-express-boilerplate.git```
+* First clone the repository, Open terminal:
+```
+git clone git@github.com:devlargs/react-express-boilerplate.git
+```
 
-*Go to the directory
-```cd react-express-boilerplate```
+* Go to the directory
+```
+cd react-express-boilerplate
+```
 
-*Install package
-```npm install ```
+* Install package
+```
+npm install 
+```
 
-*Run webpack
-```webpack```
+* Run webpack
+```
+webpack
+```
 
-*Run the server
-```npm start ```
+* Run the server
+```
+npm start 
+```
 
-*Open a web browser
-```navigate to localhost:3000```
+* Open a web browser
+```
+navigate to localhost:3000
+```
 
 ____________________________________
 
 For One Liner Enthusiasts
 
-Open Terminal
-``` git clone git@github.com:devlargs/react-express-boilerplate.git && cd react-express-boilerplate && npm install && webpack --watch & npm start```
+* Open Terminal
+``` 
+git clone git@github.com:devlargs/react-express-boilerplate.git && cd react-express-boilerplate && npm install && webpack --watch & npm start
+```
 
 ____________________________________
 
 Finale: Start coding with react
-``` You may now edit ./src/index.js file.```
+``` 
+You may now edit ./src/index.js file.
+```
