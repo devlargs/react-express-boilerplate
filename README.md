@@ -30,16 +30,6 @@ npm start
 ```
 navigate to localhost:3000
 ```
-
-____________________________________
-
-For One Liner Enthusiasts
-
-## Open Terminal
-``` 
-git clone git@github.com:devlargs/react-express-boilerplate.git && cd react-express-boilerplate && npm install && webpack --watch & npm start
-```
-
 ____________________________________
 
 ## Finale: Start coding with react
