@@ -18,12 +18,7 @@ npm install
 
 ## Run webpack
 ```
-webpack
-```
-
-## Run the server
-```
-npm start 
+npm run dev
 ```
 
 ## Open a web browser
